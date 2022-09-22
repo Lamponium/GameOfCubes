@@ -1,0 +1,2 @@
+# GameOfCubes
+GameOfCubes minecraft Server
